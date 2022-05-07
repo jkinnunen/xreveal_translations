@@ -1,5 +1,5 @@
-# Maintainer
-<table border="0" cellpadding=5 cols=13 frame=below rules=rows>
+## Maintainer
+<table>
     <tr><th>Language</th><th>Version</th><th>Xreveal</th><th>Maintainer</th></tr> 
     <tr><td>&#x1F34F; English</td><td>2.2.2</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>2.2.2</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
@@ -12,24 +12,24 @@
 &#x1F34A; Not up to date<br>
 &#x1F34E; No update for a long time
 
-# How to Translate
-1. Search LCID from LCID table below, copy file Xreveal_ENG.ini with new name Xreveal_[LCID].ini
+## How to Translate
+1. Copy file Xreveal_ENU.ini, rename to Xreveal_XXX.ini, replace XXX with new **Language code** can be found in **LCID - Locale identifier** below. 
 2. Translate strings after '=' character
     <pre>
     [INFO]
-    ID=0x0409           ; !important, must be changed to the value list in LCID section  
-    Name=English        ; Will be shown in Settings dialog
+    ID=0x0409           ; LCID (Locale identifier)
+    Name=English        ; Language Name
     Version=1.7.2
-    Author=             ; Translator's name
+    Author=             ; Translator
+   
     [DIALOG_1]
-    0=General  
+    0=General
     3=&Language:
     ...
     </pre>
-3. Copy the Language\Xreveal_XXX.ini to %ProgramFiles%\Xreveal\Language\  
-4. Restart Xreveal, you can select the new language in Xreveal's settings dialog.
+3. Copy the new language file to %ProgramFiles%\Xreveal\language\, restart Xreveal, select the new language in options dialog.
 
-# LCID - Locale identifier
+## LCID - Locale identifier
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
   <tr> 
     <th>Primary Language</th>
