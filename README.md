@@ -1,7 +1,7 @@
 ## Maintainer
 <table>
     <tr><th>Language</th><th>Version</th><th>Xreveal</th><th>Maintainer</th></tr> 
-    <tr><td>&#x1F34F; English</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; English</td><td>2.2.6</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Finnish (suomi)</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>Teppo Lunnas</td></tr>
     <tr><td>&#x1F34F; Italian (Italiano)</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
