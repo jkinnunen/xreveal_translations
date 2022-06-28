@@ -6,6 +6,7 @@
     <tr><td>&#x1F34F; Finnish (suomi)</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>Teppo Lunnas</td></tr>
     <tr><td>&#x1F34F; Italian (Italiano)</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
     <tr><td>&#x1F34F; Korean (한국어)</td><td>2.2.5</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_KOR.ini">Xreveal_FIN.ini</a></td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
+    <tr><td>&#x1F34F; Arabic (عربي)</td><td>2.2.6</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>فتحي الداودية</td></tr>
 </table>
 </table>
 
