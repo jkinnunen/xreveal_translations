@@ -1,19 +1,19 @@
 ## Translations
-Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
+Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@xreveal.com.
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 <table>
     <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr>
-    <tr><td>&#x1F34F; English</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Arabic (عربي)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>فتحي الداودية</td></tr>
-    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Finnish (Suomi)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>Teppo Lunnas</td></tr>
-    <tr><td>&#x1F34F; German (Deutsch)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>The Punisher</td></tr>
-    <tr><td>&#x1F34F; French (Français)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td><a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
-    <tr><td>&#x1F34F; Italian (Italiano)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
-    <tr><td>&#x1F34F; Korean (한국어)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
-    <tr><td>&#x1F34F; Spanish (Español)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>Steven Rogers</td></tr>
-    <tr><td>&#x1F34F; Swedish (Svenska)</td><td>2.2.9</td><td><a href="https://github.com/dvdforge/xreveal_translations/edit/master/Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
+    <tr><td>&#x1F34F; English</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
+    <tr><td>&#x1F34F; Arabic (عربي)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>فتحي الداودية</td></tr>
+    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
+    <tr><td>&#x1F34F; Finnish (Suomi)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>Teppo Lunnas</td></tr>
+    <tr><td>&#x1F34F; German (Deutsch)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>The Punisher</td></tr>
+    <tr><td>&#x1F34F; French (Français)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td><a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
+    <tr><td>&#x1F34F; Italian (Italiano)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
+    <tr><td>&#x1F34F; Korean (한국어)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
+    <tr><td>&#x1F34F; Spanish (Español)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>Steven Rogers</td></tr>
+    <tr><td>&#x1F34F; Swedish (Svenska)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
 
 ## How to Translate
