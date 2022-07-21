@@ -1,5 +1,5 @@
 ## Translations
-Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@xreveal.com.
+If you have fixes, comments or suggestion, please create a pull request or send file to support@xreveal.com.
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 <table>
