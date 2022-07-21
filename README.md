@@ -1,5 +1,5 @@
 ## Translations
-If you have fixes, comments or suggestion, please create a pull request or send file to support@xreveal.com.
+If you have fixes, comments or suggestions, please create a pull request or send file to support@xreveal.com.
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 <table>
