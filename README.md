@@ -18,7 +18,7 @@
 If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
 
 ## How to contribute
-1. Copy file Xreveal_ENU.ini to Desktop, rename it to Xreveal_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+1. Download <a href="https://raw.githubusercontent.com/xreveal/xreveal_translations/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a>, rename to Xreveal_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
     <pre>
     [INFO]
