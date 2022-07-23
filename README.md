@@ -1,22 +1,23 @@
-## Translations
-If you have fixes, comments or suggestions, please create a pull request or send file to support@xreveal.com.
-
-&#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
+## Translations for Xreveal
 <table>
-    <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr>
-    <tr><td>&#x1F34F; English</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
-    <tr><td>&#x1F34F; Arabic (عربي)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>فتحي الداودية</td></tr>
-    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
-    <tr><td>&#x1F34F; Finnish (Suomi)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>Teppo Lunnas</td></tr>
-    <tr><td>&#x1F34F; German (Deutsch)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>The Punisher</td></tr>
-    <tr><td>&#x1F34F; French (Français)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td><a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
-    <tr><td>&#x1F34F; Italian (Italiano)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
-    <tr><td>&#x1F34F; Korean (한국어)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
-    <tr><td>&#x1F34F; Spanish (Español)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>Steven Rogers</td></tr>
-    <tr><td>&#x1F34F; Swedish (Svenska)</td><td>2.2.9</td><td><a href="https://github.com/xreveal/xreveal_translations/edit/master/Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
+    <tr><th>Language</th><th>File</th><th>Status</th><th>Contributors</th></tr>
+    <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
+    <tr><td>Arabic (عربي)     </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>&#x1F34F; 2.2.9</td><td>فتحي الداودية</td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
+    <tr><td>Finnish (Suomi)   </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Teppo Lunnas</td></tr>
+    <tr><td>German (Deutsch)  </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>&#x1F34F; 2.2.9</td><td>The Punisher</td></tr>
+    <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
+    <tr><td>Italian (Italiano)</td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
+    <tr><td>Korean (한국어)      </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
+    <tr><td>Spanish (Español) </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Steven Rogers</td></tr>
+    <tr><td>Swedish (Svenska) </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
 
-## How to Translate
+&#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
+
+If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
+
+## How to contribute
 1. Copy file Xreveal_ENU.ini to Desktop, rename it to Xreveal_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
     <pre>
@@ -32,6 +33,7 @@ If you have fixes, comments or suggestions, please create a pull request or send
     ...
     </pre>
 3. Copy the new language file to %ProgramFiles%\Xreveal\language\, restart Xreveal, and then you can change the language in the software settings.
+4. Submit a pull request or send the translation file to support@yubsoft.com.
 
 ## LCID - Locale identifier
 <table>
