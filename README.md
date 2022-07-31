@@ -9,6 +9,7 @@
     <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
+    <tr><td>Polish (Polski)   </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Fresta</td></tr>
     <tr><td>Spanish (Español) </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Steven Rogers</td></tr>
     <tr><td>Swedish (Svenska) </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
