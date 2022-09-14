@@ -6,7 +6,7 @@
     <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/xreveal">@xreveal</a></td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Teppo Lunnas</td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>&#x1F34F; 2.2.9</td><td>The Punisher</td></tr>
-    <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
+    <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Andex, <a href="https://github.com/fansubmaniac">@fansubmaniac</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Fresta</td></tr>
