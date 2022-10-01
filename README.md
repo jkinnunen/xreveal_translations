@@ -12,6 +12,7 @@
     <tr><td>Polish (Polski)   </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Fresta</td></tr>
     <tr><td>Spanish (Español) </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>&#x1F34F; 2.2.9</td><td>Steven Rogers</td></tr>
     <tr><td>Swedish (Svenska) </td><td><a href="Xreveal_SVE.ini">Xreveal_SVE.ini</a></td><td>&#x1F34F; 2.2.9</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
+    <tr><td>Slovak (Slovenčina)</td><td><a href="Xreveal_SLV.ini">Xreveal_SLV.ini</a></td><td>&#x1F34A; 2.2.9</td><td>Jadran Rudec</td></tr>
 </table>
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
