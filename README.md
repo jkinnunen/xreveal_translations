@@ -1,6 +1,6 @@
 ## Translations for Xreveal
 <table>
-    <tr><th>Language</th><th>File</th><th>Status</th><th>Contributors</th></tr>
+    <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.3.0</td><td><a href="https://github.com/xreveal">xreveal</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>&#x1F34F; 2.3.0</td><td>فتحي الداودية</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.3.0</td><td><a href="https://github.com/xreveal">xreveal</a></td></tr>
