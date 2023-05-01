@@ -1,15 +1,15 @@
 ## Translations for Xreveal
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.4</td><td></td></tr>
+    <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.4.1</td><td></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>&#x1F34F; 2.3.3</td><td>فتحي الداودية</td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.4</td><td>Yang</td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.4.1</td><td>Yang</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>&#x1F34F; 2.3.3</td><td>Teppo Lunnas</td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>&#x1F34F; 2.3.3</td><td>The Punisher</td></tr>
     <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.3.3</td><td>Andex, <a href="https://github.com/fansubmaniac">fansubmaniac</a></td></tr>
-    <tr><td>Italian (Italiano)</td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>&#x1F34F; 2.3.3</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
+    <tr><td>Italian (Italiano)</td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>&#x1F34F; 2.4</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese(日本語)  </td><td><a href="Xreveal_JPN.ini">Xreveal_JPN.ini</a></td><td>&#x1F34F; 2.3.3</td><td><a href="https://github.com/XrevealJP">XrevealJP</a></td></tr>
-    <tr><td>Korean (한국어)      </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>&#x1F34A; 2.3.0</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
+    <tr><td>Korean (한국어)      </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>&#x1F34A; 2.4</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="Xreveal_PLK.ini">Xreveal_PLK.ini</a></td><td>&#x1F34F; 2.3.3</td><td>Fresta</td></tr>
     <tr><td>Spanish (Español) </td><td><a href="Xreveal_SPA.ini">Xreveal_SPA.ini</a></td><td>&#x1F34F; 2.3.3</td><td>Steven Rogers</td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="Xreveal_SLV.ini">Xreveal_SLV.ini</a></td><td>&#x1F34F; 2.3.3</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
@@ -32,7 +32,7 @@
     3=&Language:
     ...</pre>
 3. Copy the new language file to %ProgramFiles%\Xreveal\language\, restart Xreveal, and then you can change the language in the software settings.
-4. Send the translation file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you would like to participate in the official translation of ImgDrive, please register for a GitHub account and send the account name to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> and we will set you up as collaborator so that you can edit the language file directly online on GitHub.
+4. Send the translation file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you would like to participate in the official translation of Xreveal, please register for a GitHub account and send the account name to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> and we will set you up as collaborator so that you can edit the language file directly online on GitHub.
 
 ## LCID - Locale identifier
 <table>
