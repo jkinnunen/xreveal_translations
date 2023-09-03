@@ -1,12 +1,12 @@
 ## Translations for Xreveal
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.4.7</td><td></td></tr>
+    <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.4.8</td><td></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>&#x1F34F; 2.3.3</td><td>فتحي الداودية</td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.4.7</td><td>Young</td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.4.8</td><td>Young</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>&#x1F34F; 2.3.5</td><td>Teppo Lunnas</td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="Xreveal_DEU.ini">Xreveal_DEU.ini</a></td><td>&#x1F34F; 2.4.4</td><td>The Punisher</td></tr>
-    <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.4.4</td><td>Andex, <a href="https://github.com/fansubmaniac">fansubmaniac</a></td></tr>
+    <tr><td>French (Français) </td><td><a href="Xreveal_FRA.ini">Xreveal_FRA.ini</a></td><td>&#x1F34F; 2.4.7</td><td>Andex, <a href="https://github.com/fansubmaniac">fansubmaniac</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="Xreveal_ITA.ini">Xreveal_ITA.ini</a></td><td>&#x1F34F; 2.4.4</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese(日本語)  </td><td><a href="Xreveal_JPN.ini">Xreveal_JPN.ini</a></td><td>&#x1F34F; 2.4.4</td><td><a href="https://github.com/XrevealJP">XrevealJP</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="Xreveal_KOR.ini">Xreveal_KOR.ini</a></td><td>&#x1F34A; 2.4.4</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
