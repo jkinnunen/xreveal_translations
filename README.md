@@ -3,7 +3,7 @@
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="Xreveal_ENU.ini">Xreveal_ENU.ini</a></td><td>&#x1F34F; 2.6.0</td><td></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="Xreveal_ARA.ini">Xreveal_ARA.ini</a></td><td>&#x1F34A; 2.3.3</td><td>فتحي الداودية</td></tr>
-    <tr><td>Bulgarian         </td><td><a href="Xreveal_BUL.ini">Xreveal_BUL.ini</a></td><td>&#x1F34A; 2.5.3</td><td>JekovJ.K aka jekovcar</td></tr>
+    <tr><td>Bulgarian         </td><td><a href="Xreveal_BUL.ini">Xreveal_BUL.ini</a></td><td>&#x1F34A; 2.6.0</td><td>JekovJ.K aka jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="Xreveal_CHS.ini">Xreveal_CHS.ini</a></td><td>&#x1F34F; 2.6.0</td><td>Yang</td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="Xreveal_CHT.ini">Xreveal_CHT.ini</a></td><td>&#x1F34F; 2.5.6</td><td></td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="Xreveal_FIN.ini">Xreveal_FIN.ini</a></td><td>&#x1F34F; 2.5.6</td><td>Teppo Lunnas</td></tr>
